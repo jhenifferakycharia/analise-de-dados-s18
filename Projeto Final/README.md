@@ -39,5 +39,4 @@ Ao explorar as Estatísticas Globais do Youtube, foi possível identificar padr�
 
 ## Como Utilizar
 1. Clone o repositório
-   ```bash
    git clone https://github.com/jhenifferakycharia/analise-de-dados-s18.git
